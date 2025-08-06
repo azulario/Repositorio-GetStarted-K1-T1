@@ -22,3 +22,5 @@ Aqui está uma lista dos comandos mais utilizados no Git:
 * `git pull`: Puxa as atualizações do repositório remoto para o local.
 * `git clone <url>`: Clona um repositório existente para a sua máquina local.
 * `git branch -m <nome-antigo> <nome-novo>`: Renomeia um branch (ex: `git branch -m master main`).
+* `git remote add origin <url>`: Adiciona um repositório remoto chamado 'origin'.
+* `git push -u origin main`: Faz push do branch main e configura o upstream.
